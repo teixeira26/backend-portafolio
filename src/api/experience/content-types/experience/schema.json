@@ -48,6 +48,9 @@
     },
     "summaryPoints": {
       "type": "json"
+    },
+    "order": {
+      "type": "integer"
     }
   }
 }

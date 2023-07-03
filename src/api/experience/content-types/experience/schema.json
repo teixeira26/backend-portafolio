@@ -51,6 +51,12 @@
     },
     "order": {
       "type": "integer"
+    },
+    "experienceLanguages": {
+      "displayName": "experienceLanguages",
+      "type": "component",
+      "repeatable": true,
+      "component": "experience-languages.experience-languages"
     }
   }
 }

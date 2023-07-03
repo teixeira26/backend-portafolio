@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_initial_languages_initial_languages",
+  "info": {
+    "displayName": "initialLanguages"
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "json"
+    },
+    "hero": {
+      "type": "json"
+    },
+    "About": {
+      "type": "json"
+    },
+    "contact": {
+      "type": "json"
+    },
+    "locale": {
+      "type": "enumeration",
+      "enum": [
+        "es",
+        "pt",
+        "en"
+      ]
+    }
+  }
+}

@@ -23,6 +23,12 @@
       "relation": "oneToMany",
       "target": "api::skill-image.skill-image",
       "mappedBy": "skill"
+    },
+    "skillLanguages": {
+      "displayName": "skillLanguages",
+      "type": "component",
+      "repeatable": true,
+      "component": "skill-languages.skill-languages"
     }
   }
 }

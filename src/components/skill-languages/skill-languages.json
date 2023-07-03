@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_skill_languages_skill_languages",
+  "info": {
+    "displayName": "skillLanguages",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "text"
+    },
+    "locale": {
+      "type": "enumeration",
+      "enum": [
+        "en",
+        "es",
+        "pt"
+      ]
+    }
+  }
+}

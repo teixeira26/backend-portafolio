@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_languages_languages",
+  "info": {
+    "displayName": "language",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "test": {
+      "type": "string"
+    },
+    "oka": {
+      "type": "integer"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_project_languages_project_languages",
+  "info": {
+    "displayName": "projectLanguages"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "locale": {
+      "type": "enumeration",
+      "enum": [
+        "es",
+        "en",
+        "pt"
+      ]
+    }
+  }
+}

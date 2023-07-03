@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_about_abouts",
+  "info": {
+    "displayName": "About",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "text"
+    },
+    "locale": {
+      "type": "enumeration",
+      "enum": [
+        "pt",
+        "en",
+        "es"
+      ]
+    }
+  }
+}

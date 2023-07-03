@@ -31,6 +31,12 @@
     },
     "order": {
       "type": "integer"
+    },
+    "projectLanguages": {
+      "displayName": "projectLanguages",
+      "type": "component",
+      "repeatable": true,
+      "component": "project-languages.project-languages"
     }
   }
 }

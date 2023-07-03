@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "initials",
+  "info": {
+    "singularName": "initial",
+    "pluralName": "initials",
+    "displayName": "initial"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "initialLanguages": {
+      "displayName": "initialLanguages",
+      "type": "component",
+      "repeatable": true,
+      "component": "initial-languages.initial-languages"
+    }
+  }
+}

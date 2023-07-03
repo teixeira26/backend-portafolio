@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_experience_languages_experience_languages",
+  "info": {
+    "displayName": "experienceLanguages"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "summaryPoints": {
+      "type": "json"
+    },
+    "locale": {
+      "type": "enumeration",
+      "enum": [
+        "en",
+        "es",
+        "pt"
+      ]
+    }
+  }
+}

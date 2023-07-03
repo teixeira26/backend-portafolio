@@ -4,7 +4,7 @@
   "info": {
     "singularName": "initial-page",
     "pluralName": "initial-pages",
-    "displayName": "initialPage",
+    "displayName": "initial-page",
     "description": ""
   },
   "options": {
@@ -23,6 +23,12 @@
     },
     "Contact": {
       "type": "json"
+    },
+    "initialPage": {
+      "displayName": "initialPage",
+      "type": "component",
+      "repeatable": true,
+      "component": "initial-page.initial-page"
     }
   }
 }

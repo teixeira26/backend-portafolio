@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_initial_page_initial_pages",
+  "info": {
+    "displayName": "initialPage"
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "json"
+    },
+    "hero": {
+      "type": "json"
+    },
+    "About": {
+      "type": "json"
+    },
+    "contact": {
+      "type": "json"
+    },
+    "locale": {
+      "type": "enumeration",
+      "enum": [
+        "es",
+        "en",
+        "pt"
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_languages_initial_pages",
+  "info": {
+    "displayName": "InitialPage",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "json"
+    },
+    "hero": {
+      "type": "json"
+    }
+  }
+}

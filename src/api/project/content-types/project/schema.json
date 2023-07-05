@@ -37,6 +37,9 @@
       "type": "component",
       "repeatable": true,
       "component": "project-languages.project-languages"
+    },
+    "url": {
+      "type": "text"
     }
   }
 }
